@@ -5,7 +5,6 @@ import { Statistics } from './Statistics';
 import { Notification } from './Notification';
 import css from "./AppFeedback.module.css";
 
-
 export class App extends Component {
   state = {
         good: 0,
